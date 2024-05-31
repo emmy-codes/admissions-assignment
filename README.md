@@ -8,3 +8,4 @@ I chose 2 colour palettes to work with, which I created using a Tailwind Colour 
 ![shamrock-colour-palette](https://github.com/emmy-codes/admissions-assignment/assets/70635859/1d650011-1b7c-4eb4-b1d5-3863ef0e6702)
 
 
+![hot-cinnamon](https://github.com/emmy-codes/admissions-assignment/assets/70635859/a98a72f6-f687-4a39-8bad-b18411d748bc)
